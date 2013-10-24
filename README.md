@@ -26,9 +26,9 @@ What would be first most simple thing to test in the first test?
 
 Resources:
 
-http://www.jamesshore.com/Agile-Book/pair_programming.html
-http://www.c2.com/cgi/wiki?PairProgrammingPingPongPattern
-http://guide.agilealliance.org/guide/pairing.html
-http://www.codinghorror.com/blog/2007/11/pair-programming-vs-code-reviews.html
+1. http://www.jamesshore.com/Agile-Book/pair_programming.html 
+2. http://www.c2.com/cgi/wiki?PairProgrammingPingPongPattern 
+3. http://guide.agilealliance.org/guide/pairing.html 
+4. http://www.codinghorror.com/blog/2007/11/pair-programming-vs-code-reviews.html
 
 
