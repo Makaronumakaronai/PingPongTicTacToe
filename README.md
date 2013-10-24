@@ -9,7 +9,7 @@ The problem:
 
 http://en.wikipedia.org/wiki/Tic-tac-toe
 
-Given a board, could be full of half full you program has to tell who is the winner?
+Given board, it could be full of half full - your program should tell who is the winner?
 
 The format:
 
