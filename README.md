@@ -9,7 +9,7 @@ http://en.wikipedia.org/wiki/Tic-tac-toe
 
 Given board, it could be full of half full - your program should tell who is the winner?
 
-IMPORTANT: this exercise should is not intended to be finished, but rather used as exercise to practice TDD, pairing, communication skills.
+IMPORTANT: this exercise should is not intended to be finished, but rather used as exercise to practice TDD, pairing, communication.
 
 The format:
 
