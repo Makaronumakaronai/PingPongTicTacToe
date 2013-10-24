@@ -1,9 +1,7 @@
 PingPongTicTacToe
 =================
 
-Initial project for ping-pong pairing tic-tac-toe excercise.
-
-This project is a starting poing for this excercise.
+A starting poing for ping-pong pairing tic-tac-toe excercise.
 
 The problem:
 
